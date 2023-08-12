@@ -1,0 +1,13 @@
+{
+  "name": "api-proyect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "type":"module",
+  "scripts": {
+    "start" : "nodemon db.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
