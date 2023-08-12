@@ -5,7 +5,7 @@
   "main": "config.js",
   "type":"module",
   "scripts": {
-    "start" : "nodemon db.js"
+    "start" : "node db.js"
   },
   "keywords": [],
   "author": "",
